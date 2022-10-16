@@ -1,6 +1,6 @@
 # Edgar.Py
 
-##Quick Start Guide
+## Quick Start Guide
 
 Specify the starting year and end year and the directory to save outputs. By default, indices, forms and mdas will be saved to ./data
 
